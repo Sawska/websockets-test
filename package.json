@@ -1,0 +1,14 @@
+{
+  "name": "websockets-test",
+  "version": "1.0.0",
+  "description": "Testing different websockets and server events",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sawska",
+  "license": "MIT",
+  "dependencies": {
+    "event-source-polyfill": "^1.0.31"
+  }
+}
